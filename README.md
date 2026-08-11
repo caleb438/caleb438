@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+## hey, i'm `Caleb`
+> computer science student · learning C++ · use Nevim btw
+</div>
 
-<!--
-**caleb438/caleb438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- learning **C++**
+- configuring **Neovim**
+- occasionally making things that probably didn't need to exist
+
+### Projects
+
+<a href="https://github.com/caleb438/dotfiles">
+  <img
+    src="https://img.shields.io/badge/dotfiles-18181B?style=for-the-badge&logo=neovim&logoColor=89B4FA"
+    alt="dotfiles"
+  />
+</a>
+
+### Interests
+
+...
+
+---
+
