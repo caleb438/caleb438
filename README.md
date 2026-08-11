@@ -1,7 +1,5 @@
-<div align="center">
 ## hey, i'm `Caleb`
 > computer science student · learning C++ · use Nevim btw
-</div>
 
 ---
 
