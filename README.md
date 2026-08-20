@@ -16,6 +16,6 @@
 
 ### Projects
 
-Something I've been tinkering with.
+Some things I've been tinkering with.
 - **[dotfiles](https://github.com/caleb438/dotfiles)** - my configs for Neovim and other development environment tools.
-
+- **[http-server](https://github.com/caleb438/http-server)** - http server written in C++
